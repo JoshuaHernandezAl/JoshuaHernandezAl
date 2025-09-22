@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoshuaHernandezAl
-- 👀 I’m interested in web development, electronic and IoT
-- 🌱 I’m currently learning web development with JS/TS, microcontroller programming, C# and python.
-- Also, I'm working as a Software Engineer
 
 
 
+LinkedIn profile 
+
+https://www.linkedin.com/in/joshua-daniel-ihoky-hern%C3%A1ndez-almaraz-32b80b242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
